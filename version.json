@@ -1,0 +1,16 @@
+{
+  "version": "3.25",
+  "buildId": "FKI-3.25-PC-476156c0f1a5e2ac",
+  "utf16Length": 8970462,
+  "parts": [
+    "v325/part_01.txt",
+    "v325/part_02.txt",
+    "v325/part_03.txt",
+    "v325/part_04.txt",
+    "v325/part_05.txt",
+    "v325/part_06.txt",
+    "v325/part_07.txt",
+    "v325/part_08.txt",
+    "v325/part_09.txt"
+  ]
+}
